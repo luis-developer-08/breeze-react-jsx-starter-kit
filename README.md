@@ -39,7 +39,7 @@ npm install
 php artisan migrate --seed
 ```
 
-### 4️⃣ Start Development Server
+### 4️⃣ Start Development
 
 ```bash
 composer run dev
