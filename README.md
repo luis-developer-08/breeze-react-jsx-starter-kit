@@ -4,7 +4,7 @@
 
 Welcome to the **Laravel + Breeze + React Starter Kit**! This setup is designed for developers who want a **lightweight, modern, and efficient** foundation for building Laravel applications with a React frontend powered by **[Inertia.js](https://inertiajs.com)**.
 
-This kit is **JavaScript-first**, using **JSX instead of TSX**, making it accessible to developers who prefer plain JavaScript over TypeScript. It includes **React 19, TailwindCSS 4, and powerful UI libraries like [shadcn/ui](https://ui.shadcn.com) and [Radix UI](https://www.radix-ui.com)** for building sleek, fast applications.
+This kit is **JavaScript-first**, using **JSX instead of TSX**, making it accessible to developers who prefer plain JavaScript over TypeScript. It includes **React 19, TailwindCSS 4**, and Breeze for simple authentication and scaffolding.
 
 ---
 
@@ -12,7 +12,7 @@ This kit is **JavaScript-first**, using **JSX instead of TSX**, making it access
 
 ✔️ **React 19 + JSX** – Simple, clean, and TypeScript-free  
 ✔️ **Laravel 12 + Breeze** – Lightweight authentication with Inertia.js  
-✔️ **TailwindCSS 4 + ShadCN** – Elegant UI components with minimal effort  
+✔️ **TailwindCSS 4** – Modern styling with utility-first CSS  
 ✔️ **Vite-Powered** – Lightning-fast HMR for smooth development  
 ✔️ **Pre-configured Testing** – Includes PHPUnit & Pest  
 ✔️ **Quick Setup** – Get started in minutes!
