@@ -21,7 +21,7 @@ This kit is **JavaScript-first**, using **JSX instead of TSX**, making it access
 
 ## 🛠 Getting Started
 
-### 1️⃣ Install Laravel and Breeze
+### 1️⃣ Install
 
 ```bash
 laravel new --using=luis-developer-08/breeze-react-jsx-starter-kit
