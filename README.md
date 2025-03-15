@@ -35,8 +35,6 @@ npm install
 
 ### 3️⃣ Run Migrations
 
-Copy `.env.example` and generate an application key:
-
 ```bash
 php artisan migrate --seed
 ```
