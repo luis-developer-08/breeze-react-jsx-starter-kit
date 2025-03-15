@@ -33,22 +33,15 @@ laravel new --using=luis-developer-08/breeze-react-jsx-starter-kit
 npm install
 ```
 
-### 3️⃣ Configure Environment
+### 3️⃣ Run Migrations
 
 Copy `.env.example` and generate an application key:
-
-```bash
-cp .env.example .env
-php artisan key:generate
-```
-
-### 4️⃣ Run Migrations
 
 ```bash
 php artisan migrate --seed
 ```
 
-### 5️⃣ Start Development Server
+### 4️⃣ Start Development Server
 
 ```bash
 composer run dev
